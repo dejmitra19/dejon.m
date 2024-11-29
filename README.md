@@ -1,4 +1,4 @@
-# dejon.m
+# Dejon Mitra: Aspiring Business Intelligence Analyst
 # 👋 Hello! I'm Dejon Mitra
 
 ## About Me
